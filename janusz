@@ -1,0 +1,98 @@
+    1  git clone https://github.com/janratajczyk/zsk.git
+    2  cd zsk
+    3  php -v
+    4  composer global require laravel/installer
+    5  clear
+    6  composer global require laravel/installer
+    7  new project project_1
+    8  laravel new project
+    9  laravel new project_1
+   10  php artisanserv
+   11  php artisan serv
+   12  cd project_1
+   13  1s
+   14  cd project
+   15  1s
+   16  cd project_1
+   17  php artisan serv
+   18  npm run 
+   19  npm run dev
+   20  ls
+   21  git status
+   22  git add *
+   23  git status
+   24  git commit -m "add new project laravel"
+   25  git status
+   26  git push
+   27  git config --global user.name "janratajczyk"
+   28  git config --global user.email "ratajczykjan66@gmail.com"
+   29  git config --global --list
+   30  git push 
+   31  code .
+   32  php artisan serv
+   33  ls
+   34  cd srudent
+   35  cd student
+   36  cd users
+   37  cd workspace
+   38  ls
+   39  ls
+   40  cd videos
+   41  ls
+   42  ls
+   43  cd onedrive
+   44  cd nethood@
+   45  cd..
+   46  cd nethood
+   47  cd videos
+   48  cd n
+   49  ls
+   50  cd nowy folder
+   51  cd x
+   52  git clone https://github.com/wojteksyk/xxx.git
+   53  git global --list
+   54  git config --list
+   55  git config --list
+   56  git config --global edit user.name
+   57  git edit --global user.name
+   58  git config --global user.name "wojteksyk"
+   59  git config --global user.email "wojciech.syk@uczen.zsk.poznan.pl"
+   60  git config --list
+   61  git config --list
+   62  ls
+   63  cd C:/Users/student/Desktop/egzamin
+   64  git clone https://github.com/wojteksyk/bieg.git
+   65  ls
+   66  cd bieg
+   67  ls
+   68  git config --list
+   69  echo "informacje o uprawnieniach" << file.txt 
+   70  :wq
+   71  echo "info o uprawnieniach" << file.txt
+   72  echo "info o uprawnieniach" < file.txt
+   73  echo info o uprawnieniach < file.txt
+   74  echo info o uprawnieniach < file file.txt
+   75  cat file < file.txt
+   76  ls
+   77  cd C:/Users/student/Desktop/egzamin
+   78  cd bieg
+   79  ls
+   80  echo Wojtek Syk << krystyna.txt
+   81  Wojtek
+   82  cd C:/Users/student/Desktop/egzamin
+   83  cd bieg
+   84  echo Wojtek Syk < krystyna.txt
+   85  echo Wojtek Syk << krystyna.txt
+   86  cd C:/Users/student/Desktop/egzamin
+   87  cd bieg
+   88  echo Wojtek Syk < krystyna.txt
+   89  cat krystyna.txt
+   90  cat file krystyna.txt
+   91  cat krystyna
+   92  ls
+   93  git init
+   94  git add .
+   95  git status
+   96  git commit -m "dane kartkowki"
+   97  git push
+   98  history > janusz
